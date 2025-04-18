@@ -1,0 +1,16 @@
+cast:
+  base_url: "https://rpa.casthighlight.com"
+  company_id: "CAST_HL_COMPANY_ID"
+  token: "YOUR_HIGHLIGHT_TOKEN"
+  docker_image: "casthighlight/hl-cli"
+
+github:
+  token: "YOUR_GITHUB_TOKEN"
+
+amazon_q:
+  email: "YOUR_AMAZON_Q_EMAIL"
+  portfolio: "AmazonQ"
+  region: "us-east-1"
+
+output:
+  base_dir: "/tmp/output" 

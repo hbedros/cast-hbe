@@ -1,0 +1,17 @@
+{
+  "version": "1.0",
+  "jobDetail": {
+    "targetBranch": "main",
+    "targetVersion": ".NET 8.0"
+  },
+  "repositories": [
+    {
+      "name": "dotnet-maui",
+      "sourceBranch": "main",
+      "repositoryLocation": {
+        "url": "https://github.com/dotnet/maui.git",
+        "type": "GitHub"
+      }
+    }
+  ]
+} 
