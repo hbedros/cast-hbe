@@ -4,12 +4,14 @@
     "targetBranch": "main",
     "targetVersion": ".NET 8.0"
   },
+  "applicationId": "",
+  "companyId": "33168",
   "repositories": [
     {
       "name": "dotnet-maui",
       "sourceBranch": "main",
       "repositoryLocation": {
-        "url": "https://github.com/dotnet/maui.git",
+        "url": "https://github.com/dotnet/maui",
         "type": "GitHub"
       }
     }

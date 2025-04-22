@@ -1,7 +1,11 @@
+# CAST Highlight Configuration
+# Remove .example extension from the file and update below with your credentials
+
 cast:
-  base_url: "https://rpa.casthighlight.com"
-  company_id: "CAST_HL_COMPANY_ID"
-  token: "YOUR_HIGHLIGHT_TOKEN"
+  base_url: "https://rpa.casthighlight.com/WS2"
+  company_id: "YOUR_COMPANY_ID"
+  login: "YOUR_LOGIN"
+  password: "YOUR_PASSWORD"
   docker_image: "casthighlight/hl-cli"
 
 github:
